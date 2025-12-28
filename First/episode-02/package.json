@@ -1,0 +1,26 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "This is a episode 2 of react base",
+  "keywords": [
+    "React"
+  ],
+  "homepage": "https://github.com/mahesh-from-sirsi/react_base#readme",
+  "bugs": {
+    "url": "https://github.com/mahesh-from-sirsi/react_base/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh-from-sirsi/react_base.git"
+  },
+  "license": "ISC",
+  "author": "Mahesh V. Shet",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
