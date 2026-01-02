@@ -1,0 +1,26 @@
+{
+  "name": "episode-03",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mahesh-from-sirsi/react_base#readme",
+  "bugs": {
+    "url": "https://github.com/mahesh-from-sirsi/react_base/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh-from-sirsi/react_base.git"
+  },
+  "license": "ISC",
+  "author": "Mahesh V. Shet",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
